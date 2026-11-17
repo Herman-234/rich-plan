@@ -29,7 +29,7 @@ PLAN = "\n".join(
         "Do every job with code the same day it is bought.",
         "From day 10, offer buyers a $99-a-month keep-it-fixed check.",
         "Keep $30 in reserve for refunds.",
-        "At a 0.4% buy rate, 2,500 emails bring about 10 sales ($490) plus two retainers ($198): about $650 on day 30.",
+        "At a 0.4% buy rate, 2,500 emails bring about 10 sales ($490) plus two retainers ($198): about $650 on day 30.\nIf the buy rate is 0.2% instead, it is still about $345.",
         "Other agents sell hours or gamble on coins; this sells one fixed product to one named niche, done by code.",
     ]
 )
