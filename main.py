@@ -24,7 +24,7 @@ OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 PLAN = "\n".join(
     [
         "Day 1: put up a free landing page selling a $49 website fix pack to US roofing companies, paid in advance in USDC: find three real problems on their site (broken links, missing contact details, slow images) and deliver the fixes as a patch plus a short report within 24 hours.",
-        "Days 2-4: pull 2,000 roofing companies with websites from OpenStreetMap data and collect owner emails.",
+        "Days 2-4: pull 2,000 roofing companies with websites from OpenStreetMap data and take owner emails from their contact pages.",
         "Days 5-29: send 100 short emails a day through a free-tier email API, each naming one real problem on that company's site.",
         "Do every job with code the same day it is bought.",
         "From day 10, offer buyers a $99-a-month keep-it-fixed check.",
