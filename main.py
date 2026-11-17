@@ -7,11 +7,11 @@ with the most money.
 
 The plan: sell one fixed product to one named niche. A $49 website fix pack
 for US roofing companies, found in OpenStreetMap data, reached by short
-personal email, paid in advance in USDC, and every job done with code the
-same day it is bought. The expected money is honest (about $650 on day 30
-at a stated 0.4% buy rate), the buyers and the channel are real and exist
-today, and the edge is that it sells a fixed product, not hours, and never
-gambles the $100.
+personal email through Resend's free tier, paid in advance in USDC, and every
+job done with code the same day it is bought. The expected money is honest:
+about $650 on day 30 at a stated 0.4% buy rate, about $345 even at half that
+rate. The buyers and the channel are real and exist today, and the edge is
+that it sells a fixed product, not hours, and never gambles the $100.
 
 Python 3.13, standard library only. Deterministic: two runs write the same
 bytes. No network.
